@@ -1,4 +1,8 @@
-Här är en tasklist på de “Issues” du ska skapa i ditt repo på Github. Hovra över raden, och klicka på cirkeln med pricken i till höger för att omvandla till ett nytt Issue.  Ladda om sidan om du inte ser cirkeln.
+Här är en tasklist på de “Issues” du ska skapa i ditt repo på Github. 
+* Börja med att editera denna fil, markera och kopiera allt. Stäng utan att spara. 
+* Öppna ett nytt Issue, klistra in och spara. 
+* Gör nu om alla tasks till Issues, genom att hovra över taskrutan, och klicka på cirkeln med pricken i till höger.  Ladda om sidan om du inte ser cirkeln.
+* Skapa ett projekt, och lägg till dina issues. Dessa prickar du sedan av (close issue) allteftersom du klarat dem.
 
 Varje Issue får ett nummer som du kan använda i VS code när du commit:ar. 
 [https://code.visualstudio.com/blogs/2020/05/06/github-issues-integration](url)
@@ -15,10 +19,10 @@ C:
 - [ ] Bakgrundsbild, menysystem med 3 olika frames
 - [ ] Aktuell temperatur,  och dina IO data
 - [ ] Väderprognos
-- [ ] Graf över en procent-feeden från din AIO(se nedan)
+- [ ] Graf (sparklines) över batteriprocent-feeden från din AIO (se nedan)
 
 B:
-- [ ] Graf över flera  (2-5) feeds från din AIO, med knappar för att välja
+- [ ] Graf över flera (2-5) feeds från din AIO, med knappar för att välja
 
 A:
 - [ ] Spara data på fil via SD card, och använda för graferna
